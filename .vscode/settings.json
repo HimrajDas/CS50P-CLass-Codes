@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.smoothScrolling": true,
+    "editor.smoothScrolling": false,
+    "files.autoSave": "afterDelay",
+    "python.analysis.typeCheckingMode": "basic"
+}
